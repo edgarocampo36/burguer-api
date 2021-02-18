@@ -1,0 +1,23 @@
+{
+  "name": "burguer-api",
+  "version": "1.0.0",
+  "description": "Una API de hamburguesas para pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarocampo36/burguer-api.git"
+  },
+  "author": "Edgar Ocampo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarocampo36/burguer-api/issues"
+  },
+  "homepage": "https://github.com/edgarocampo36/burguer-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
