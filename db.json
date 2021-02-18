@@ -11,6 +11,12 @@
       "name": "Hamburguesa completa",
       "description": "Hamburguesa de carne vacuna con huevo, queso y jamón",
       "ingredients": ["carne", "lechuga", "tomate", "pan de hamburguesa", "aderezo", "huevo frito", "jamón cocido", "queso tybo"]
+    },
+    {
+      "id": 2,
+      "name": "Hamburguesa napolitana",
+      "description": "Hamburguesa de carne vacuna a la napolitana",
+      "ingredients": ["carne", "lechuga", "tomate", "pan de hamburguesa", "aderezo", "salsa de tomate", "jamón cocido", "queso muzarella", "oregano"]
     }
   ]
 }
