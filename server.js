@@ -1,5 +1,5 @@
 //Importamos el paquete json-server
-import jsonServer from "json-server";
+var jsonServer = require("json-server");
 
 //Esta linea crea el jsonserver
 const server = jsonServer.create()
